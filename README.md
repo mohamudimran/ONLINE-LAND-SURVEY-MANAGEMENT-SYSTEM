@@ -1,2 +1,2 @@
 # ONLINE-LAND-SURVEY-MANAGEMENT-SYSTEM
-This website secures one knowledge in knowing requiremensts or specification in real world time to understand better on the land management sysytem.
+This website secures one knowledge in knowing requiremensts or specification in real world time to understand better on the land management sysytem.Helps in understanding of one's property rights title deeds required if any uprise comes up.Also helps those whom are venturing in construction of roads,bridges,houses and insitution to understand on the depth and earths core.This website is created by AL-imran Madey DIT-01-8594/2021.
